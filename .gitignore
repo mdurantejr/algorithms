@@ -24,6 +24,3 @@ hs_err_pid*
 # IntelliJ files
 *.idea
 *.iml
-
-# My Retry files
-*/retry

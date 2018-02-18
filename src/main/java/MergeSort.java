@@ -1,7 +1,7 @@
 public class MergeSort {
 
     public static void main(String[] args) {
-        int[] a = new int[]{4,2,8,3,5,8,9,0,1,32};
+        int[] a = new int[]{4, 2, 8, 3, 5, 8, 9, 0, 1, 32};
         for (int i : a) {
             System.out.print(i + " ");
         }
